@@ -1,16 +1,16 @@
-## Hi there 👋
+## boa pa nois
 
-<!--
-**thody245/thody245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e caua araujo
 
-Here are some ideas to get you started:
+-estou estudando no alura
+-estou me desenvolvendo na linguagem
+-utilizo este espaco para minha organizacao e compatilhamento dos meus projetos dezenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### vc pode entra em contat0 comigp 📪
+
+000111730104SP@al.educacao.sp.gov.br
+
+@cauaaraujo
+
+
+![](https://media1.tenor.com/m/4w2WGjtBlcEAAAAC/fafuke-fafuke-rainbow.gif)
