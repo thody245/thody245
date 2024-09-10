@@ -4,7 +4,7 @@ meu nome e caua araujo
 
 -estou estudando no alura
 -estou me desenvolvendo na linguagem
--utilizo este espaco para minha organizacao e compatilhamento dos meus projetos dezenvolvidos
+-utilizo este espaco para minha organização e compatilhamento dos meus projetos dezenvolvidos
 
 ### vc pode entra em contat0 comigp 📪
 
